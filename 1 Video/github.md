@@ -1,0 +1,1 @@
+1. https://github.com/codingexplained/complete-guide-to-elasticsearch
